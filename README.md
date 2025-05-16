@@ -102,6 +102,9 @@ We’re the team behind Appilot. We are a software development agency who helped
 
 <div align="left">
 
+###
+We build powerful automation systems for audience engagement, influencer tools, and interactive marketing bots across major platforms.
+
 
 ## ⚙️ Features
 
